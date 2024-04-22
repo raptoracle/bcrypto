@@ -1,7 +1,7 @@
 /*!
  * kdf.c - kdf for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on Tarsnap/scrypt:
  *   Copyright (c) 2005-2016, Colin Percival. All rights reserved.

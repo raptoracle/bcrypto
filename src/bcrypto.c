@@ -1,7 +1,7 @@
 /**
  * bcrypto.cc - fast native bindings to crypto functions
  * Copyright (c) 2016-2020, Christopher Jeffrey (MIT License)
- * https://github.com/bcoin-org/bcrypto
+ * https://github.com/raptoracle/bcrypto
  */
 
 #include <stdbool.h>

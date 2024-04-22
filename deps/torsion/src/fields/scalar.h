@@ -1,7 +1,7 @@
 /*!
  * scalar.h - scalar inversion chains for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on bitcoin-core/secp256k1:
  *   Copyright (c) 2013 Pieter Wuille

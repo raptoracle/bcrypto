@@ -1,7 +1,7 @@
 /*!
  * bf.h - extra blowfish functions for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  */
 
 #ifndef TORSION_BF_H

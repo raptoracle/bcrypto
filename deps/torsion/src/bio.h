@@ -1,7 +1,7 @@
 /*!
  * bio.h - binary parsing & serialization for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Note that the endian checks here don't matter all
  * that much. Modern GCC and Clang will optimize the

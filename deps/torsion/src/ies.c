@@ -1,7 +1,7 @@
 /*!
  * ies.c - ies for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/bcrypto
+ * https://github.com/raptoracle/bcrypto
  */
 
 #include <stddef.h>

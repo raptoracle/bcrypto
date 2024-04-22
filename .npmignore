@@ -19,3 +19,4 @@ scripts/
 test/
 webpack.*.js
 yarn.lock
+.DS*

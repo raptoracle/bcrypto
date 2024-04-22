@@ -1,7 +1,7 @@
 /*!
  * drbg.c - drbg implementations for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Resources:
  *   https://tools.ietf.org/html/rfc6979

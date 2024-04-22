@@ -1,6 +1,6 @@
 # CMakeLists.txt - cmake build for bcrypto
 # Copyright (c) 2020, Christopher Jeffrey (MIT License).
-# https://github.com/bcoin-org/bcrypto
+# https://github.com/raptoracle/bcrypto
 
 cmake_minimum_required(VERSION 3.4)
 project(bcrypto LANGUAGES C)

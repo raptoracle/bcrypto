@@ -58,7 +58,7 @@ describe('Secp256k1+Schnorr Legacy', function() {
   });
 
   it('should handle uncompressed key properly', () => {
-    // See: https://github.com/bcoin-org/bcrypto/issues/17
+    // See: https://github.com/raptoracle/bcrypto/issues/17
     const msg = Buffer.from(
       'cd3808fc5cbf9f2190d9b867b4498f234212984b8c879f296cf8e792b622a2f4',
       'hex');

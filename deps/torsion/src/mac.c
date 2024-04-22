@@ -1,7 +1,7 @@
 /*!
  * mac.c - macs for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on floodyberry/poly1305-donna:
  *   Placed into the public domain by Andrew Moon.

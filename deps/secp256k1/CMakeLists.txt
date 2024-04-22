@@ -1,6 +1,6 @@
 # CMakeLists.txt - cmake build for secp256k1
 # Copyright (c) 2020, Christopher Jeffrey (MIT License).
-# https://github.com/bcoin-org/bcrypto
+# https://github.com/raptoracle/bcrypto
 
 #
 # Initialization

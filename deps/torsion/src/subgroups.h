@@ -1,7 +1,7 @@
 /*!
  * subgroups.h - torsion subgroups for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  */
 
 static const subgroup_def_t subgroups_prime[1] = {

@@ -1,6 +1,6 @@
 # CMakeLists.txt - cmake build for libtorsion
 # Copyright (c) 2020, Christopher Jeffrey (MIT License).
-# https://github.com/bcoin-org/libtorsion
+# https://github.com/raptoracle/libtorsion
 
 set(TORSION_PKG_VERSION 0.0.0)
 set(TORSION_ABI_VERSION 0:0:0)

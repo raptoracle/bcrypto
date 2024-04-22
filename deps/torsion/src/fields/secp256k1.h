@@ -1,7 +1,7 @@
 /*!
  * secp256k1.h - secp256k1 for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Resources:
  *   https://briansmith.org/ecc-inversion-addition-chains-01#secp256k1_field_inversion

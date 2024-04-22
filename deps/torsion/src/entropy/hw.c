@@ -1,7 +1,7 @@
 /*!
  * hw.c - hardware entropy for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Resources:
  *   https://en.wikipedia.org/wiki/CPUID

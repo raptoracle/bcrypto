@@ -1,7 +1,7 @@
 /*!
  * internal.h - internal utils for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  */
 
 #ifndef TORSION_INTERNAL_H
@@ -300,7 +300,7 @@ static const unsigned long torsion__endian_check TORSION_UNUSED = 1;
 /* Basically a stripped down version of our old file[1].
  * It only includes the compilers we for sure know work.
  *
- * [1] https://github.com/bcoin-org/libtorsion/blob/2fe6cd3/src/tls.h
+ * [1] https://github.com/raptoracle/libtorsion/blob/2fe6cd3/src/tls.h
  */
 #if defined(_EFI_CDEFS_H)
 /* No threads in UEFI. */

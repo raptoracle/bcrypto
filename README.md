@@ -1,6 +1,6 @@
 # bcrypto
 
-[![Node.js](https://github.com/bcoin-org/bcrypto/actions/workflows/node.js.yml/badge.svg)](https://github.com/bcoin-org/bcrypto/actions/workflows/node.js.yml)
+[![Node.js](https://github.com/raptoracle/bcrypto/actions/workflows/node.js.yml/badge.svg)](https://github.com/raptoracle/bcrypto/actions/workflows/node.js.yml)
 
 The missing crypto module for Node.js. Bcrypto provides you with a consistent
 interface across Node.js and the browser. It is implemented as a [Node.js
@@ -94,6 +94,6 @@ See LICENSE for more info.
 
 [circleci-status-img]: https://circleci.com/gh/bcoin-org/bcrypto/tree/master.svg?style=shield
 [circleci-status-url]: https://circleci.com/gh/bcoin-org/bcrypto/tree/master
-[libtorsion]: https://github.com/bcoin-org/libtorsion
+[libtorsion]: https://github.com/raptoracle/libtorsion
 [libsecp256k1]: https://github.com/bitcoin-core/secp256k1
 [addon]: https://nodejs.org/api/addons.html

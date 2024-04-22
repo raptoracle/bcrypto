@@ -1,7 +1,7 @@
 /*!
  * ecc.c - elliptic curves for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on indutny/elliptic:
  *   Copyright (c) 2014, Fedor Indutny (MIT License).

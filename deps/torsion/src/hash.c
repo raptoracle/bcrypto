@@ -1,7 +1,7 @@
 /*!
  * hash.c - hash functions for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on BLAKE2/BLAKE2:
  *   CC0 1.0 Universal

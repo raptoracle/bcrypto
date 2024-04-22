@@ -1,7 +1,7 @@
 /*!
  * mpi.c - multi-precision integers for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * A from-scratch reimplementation of GMP.
  *

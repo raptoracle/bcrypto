@@ -5,7 +5,7 @@
  *
  * Modified and refactored for bcrypto:
  *   Copyright (c) 2020, Christopher Jeffrey (MIT License).
- *   https://github.com/bcoin-org/bcrypto
+ *   https://github.com/raptoracle/bcrypto
  */
 
 #ifndef _SECP256K1_MODULE_SCHNORRLEG_MAIN_

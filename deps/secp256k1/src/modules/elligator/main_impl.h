@@ -1,7 +1,7 @@
 /*!
  * main_impl.h - elligator module for libsecp256k1
  * Copyright (c) 2019, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/bcrypto
+ * https://github.com/raptoracle/bcrypto
  *
  * Parts of this software are based on ElementsProject/secp256k1-zkp:
  *   Copyright (c) 2013, Pieter Wuille

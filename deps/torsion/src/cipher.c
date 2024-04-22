@@ -1,7 +1,7 @@
 /*!
  * cipher.c - ciphers for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on openssl/openssl:
  *   Based on code entered into the public domain by Vincent Rijmen.

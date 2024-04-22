@@ -1,7 +1,7 @@
 /*!
  * dsa.c - dsa for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on golang/go:
  *   Copyright (c) 2009 The Go Authors. All rights reserved.

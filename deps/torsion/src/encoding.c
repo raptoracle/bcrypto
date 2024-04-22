@@ -1,7 +1,7 @@
 /*!
  * encoding.c - string encodings for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Parts of this software are based on bitcoin/bitcoin:
  *   Copyright (c) 2009-2019, The Bitcoin Core Developers (MIT License).

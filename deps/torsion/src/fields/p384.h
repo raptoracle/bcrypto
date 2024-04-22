@@ -1,7 +1,7 @@
 /*!
  * p384.h - p384 field element for libtorsion
  * Copyright (c) 2020, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/libtorsion
+ * https://github.com/raptoracle/libtorsion
  *
  * Resources:
  *   https://briansmith.org/ecc-inversion-addition-chains-01#p384_field_inversion
