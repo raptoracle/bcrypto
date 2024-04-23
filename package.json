@@ -34,12 +34,12 @@
     "test-all": "npm run test-browser && npm run test-js && npm run test-bigint && npm run test-torsion && npm run test-native"
   },
   "dependencies": {
-    "bufio": "git+https://github.com/raptoracle/bufio.git#semver:~1.0.7",
-    "loady": "git+https://github.com/raptoracle/loady.git#semver:~0.0.5"
+    "bufio": "git+https://github.com/raptoracle/bufio.git",
+    "loady": "git+https://github.com/raptoracle/loady.git"
   },
   "devDependencies": {
-    "bmocha": "git+https://github.com/raptoracle/bmocha.git#semver:=2.2.0",
-    "bsert": "git+https://github.com/raptoracle/bsert.git#semver:~0.0.13"
+    "bmocha": "git+https://github.com/raptoracle/bmocha.git",
+    "bsert": "git+https://github.com/raptoracle/bsert.git"
   },
   "engines": {
     "node": ">=8.0.0"
